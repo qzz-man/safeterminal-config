@@ -1,12 +1,13 @@
 {
   "schema": 1,
   "preferDomains": [
-    "hkg.cf.ntr-community.edgelb.dpdns.org",
-    "saas.sin.fan"
+    "saas.sin.fan",
+    "hkg.cf.ntr-community.edgelb.dpdns.org"
   ],
   "dohEndpoints": [
     "https://223.5.5.5/resolve",
     "https://1.1.1.1/dns-query"
   ],
-  "updatedAt": "2026-10-09T12:16:16.748Z"
+  "fallbackHosts": [],
+  "updatedAt": "2026-11-11T13:28:07.982Z"
 }
