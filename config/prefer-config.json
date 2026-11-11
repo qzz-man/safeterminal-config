@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "preferDomains": [
-    "saas.sin.fan",
-    "hkg.cf.ntr-community.edgelb.dpdns.org"
+    "ntrcu.siu1874.dpdns.org",
+    "saas.sin.fan"
   ],
   "dohEndpoints": [
     "https://223.5.5.5/resolve",
     "https://1.1.1.1/dns-query"
   ],
   "fallbackHosts": [],
-  "updatedAt": "2026-11-11T13:28:07.982Z"
+  "updatedAt": "2026-11-11T13:37:00.237Z"
 }
